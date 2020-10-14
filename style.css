@@ -1,0 +1,36 @@
+
+.main{
+    text-align: center;
+    padding: 10%;
+}
+
+.material-icons{
+    color: black ;
+}
+
+.icons{
+    text-align: center;
+}
+
+.words{
+    text-align: center;
+}
+
+.time{
+    text-align: center;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  th, td{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
